@@ -1,3 +1,4 @@
+//idea of the project is very well thought of
 #!/bin/bash 
 
 echo " ANSWER THE QUESTIONS IN Y AND N "
